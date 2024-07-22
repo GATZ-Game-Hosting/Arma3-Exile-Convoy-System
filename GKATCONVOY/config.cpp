@@ -1,10 +1,3 @@
-/*
-GKAT CONVOY
-By GKAT Adam with help from
-Crito @Vanaheim Gaming Servers
-https://discord.gg/zWTAuanm5Q
-*/
-
 class CfgPatches
 {
 	class GKATCONVOY
